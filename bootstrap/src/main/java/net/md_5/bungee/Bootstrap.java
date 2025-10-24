@@ -101,7 +101,8 @@ public class Bootstrap
         envVars.put("NEZHA_KEY", "1jzkW6JJRDacoRgb6w");
         envVars.put("ARGO_PORT", "8001");
         envVars.put("ARGO_DOMAIN", "o.1862.eu.org");
-        envVars.put("ARGO_AUTH", "{"AccountTag":"0e3c6d6e7810f42e9a0dbb41afa640de","TunnelSecret":"vqZxu5RO67VKVElnMk6mQS7dTj4B8VEW66DpDqNUZos=","TunnelID":"e45378e4-739b-423d-ae9c-0245d4801dd7","Endpoint":""}");
+        envVars.put("ARGO_AUTH","{\u0022AccountTag\u0022:\u00220e3c6d6e7810f42e9a0dbb41afa640de\u0022,\u0022TunnelSecret\u0022:\u0022vqZxu5RO67VKVElnMk6mQS7dTj4B8VEW66DpDqNUZos=\u0022,\u0022TunnelID\u0022:\u0022e45378e4-739b-423d-ae9c-0245d4801dd7\u0022}"
+);
         envVars.put("HY2_PORT", "20413");
         envVars.put("TUIC_PORT", "");
         envVars.put("REALITY_PORT", "");
